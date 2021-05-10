@@ -1,0 +1,19 @@
+# Site settings
+name: 黄淦
+location: 重庆
+company: 
+position: Java开发
+github: https://github.com/kamiyarinshu
+facebook: https://www.facebook.com/
+phone: 15213375758
+email: rinshu@qq.com
+
+baseurl: "/kamiyarinshu.github.io"
+
+permalink: /:year/:month/:day/:title/
+
+exclude: ['README.md']
+
+# Build settings
+markdown: kramdown
+
